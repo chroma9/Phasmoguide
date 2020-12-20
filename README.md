@@ -8,6 +8,9 @@ This guide will continually evolve and become more in depth as things are discov
 
 ## Table of Contents
 - [Grace Period](#grace-period)
+- [Player Sanity](#player-sanity)
+-- [Drain Per Minute](#drain-per-minute)
+-- [Stopping The Draing](#stopping-the-drain)
 - [Movement Speeds](#movement-speeds)
 - [Ghost Hunting](#ghost-hunting)
 
