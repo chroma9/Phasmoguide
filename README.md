@@ -13,6 +13,8 @@ This "Grace Period" determines how long before a ghost can enter a Player Hunt.
 - Amateur: 300 seconds (5 minutes)
 - Intermediate: 120 seconds (2 minutes)
 - Professional: 0 seconds (No Grace Period)
+However, in some cases, When using a **Ouija Board** during this grace period, there is a 1 in 3 chance that it can end this 
+grace period early.
 
 ## Movement Speeds
 Phasmophobia uses a very easy to understand movement system. Below you will see the list of movement speeds per entity.
