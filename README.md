@@ -13,6 +13,8 @@ This guide will continually evolve and become more in depth as things are discov
   * [Stopping The Drain](#stopping-the-drain)
 * [Movement Speeds](#movement-speeds)
 * [Ghost Hunting](#ghost-hunting)
+  * [Hunt Duration](#hunt-duration)
+  * [Common Misconceptions](#common-misconceptions)
 
 
 ## Grace Period
@@ -51,6 +53,20 @@ Phasmophobia uses a very easy to understand movement system. Below you will see 
 
 ## Ghost Hunting
 This is the most terrifying part of how Ghosts function. Ghosts can hunt based on certain variables in play when it comes
-to what the ghost is, sanity and several other things. This section here only discusses the mechanics of the hunt
-with important things to note linking to other parts of this guide. 
+to what the ghost is, sanity and several other things. This section here only discusses the mechanics of the Hunt
+with important things to note linking to other parts of this guide.
 
+### Hunt Duration
+Here you will find how long a Hunt actually lasts on each difficulty.
+- Amateur: 25 seconds
+- Intermediate: 45 seconds
+- Professional: 50 seconds
+
+After a Hunt, successful or not, a Ghost cannot Hunt again for another 25 seconds minimum.
+
+### Common Misconceptions
+There are things that many players believe that are incorrect due to past information or rumors. Here is the corrections of
+some of these rumors.
+- Ghosts cannot see your Flashlight.
+- Ghosts cannot hear you speak.
+- Wraiths cannot see through walls and doors.
