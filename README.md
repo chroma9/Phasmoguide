@@ -52,9 +52,9 @@ Phasmophobia uses a very easy to understand movement system. Below you will see 
 
 
 ## Ghost Hunting
-This is the most terrifying part of how Ghosts function. Ghosts can hunt based on certain variables in play when it comes
-to what the ghost is, sanity and several other things. This section here only discusses the mechanics of the Hunt
-with important things to note linking to other parts of this guide.
+This is the most terrifying part of how Ghosts function. Ghosts can hunt based on certain variables in play; 
+such as ghost type, player sanity and several other things. This section here only discusses the mechanics of the Hunt, 
+with important things to note linked to other parts of this guide.
 
 ### Hunt Duration
 Here you will find how long a Hunt actually lasts on each difficulty.
@@ -65,8 +65,8 @@ Here you will find how long a Hunt actually lasts on each difficulty.
 After a Hunt, successful or not, a Ghost cannot Hunt again for another 25 seconds minimum.
 
 ### Common Misconceptions
-There are things that many players believe that are incorrect due to past information or rumors. Here is the corrections of
-some of these rumors.
+There are things that many players believe, that are incorrect, due to past information or rumors. 
+Here is the corrections of some of these rumors.
 - Ghosts cannot see your Flashlight.
 - Ghosts cannot hear you speak.
 - Wraiths cannot see through walls and doors.
