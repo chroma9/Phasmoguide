@@ -20,7 +20,7 @@ This "Grace Period" determines how long before a ghost can enter a Player Hunt.
 - Intermediate: 120 seconds (2 minutes)
 - Professional: 0 seconds (No Grace Period)
 
-However, when using a **Ouija Board** during this grace period, there is a 1 in 3 chance that it can end the
+However, when using a **Ouija Board** during the Grace Period, there is a 1 in 3 chance that it can end the
 Grace Period early.
 
 
