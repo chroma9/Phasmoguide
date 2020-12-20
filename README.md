@@ -15,7 +15,7 @@ This "Grace Period" determines how long before a ghost can enter a Player Hunt.
 - Professional: 0 seconds (No Grace Period)
 
 ## Movement Speeds
-Phasmophobia uses a very easy understand movement system. Below you will see the list of movement speeds per entity.
+Phasmophobia uses a very easy to understand movement system. Below you will see the list of movement speeds per entity.
 - Player (Walking): 1.1
 - Player (Running): 1.6
 - Normal Ghost Hunting: 1.5
