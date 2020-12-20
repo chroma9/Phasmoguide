@@ -10,7 +10,7 @@ This guide will continually evolve and become more in depth as things are discov
 * [Grace Period](#grace-period)
 * [Player Sanity](#player-sanity)
   * [Drain Per Minute](#drain-per-minute)
-  * [Stopping The Draing](#stopping-the-drain)
+  * [Stopping The Drain](#stopping-the-drain)
 * [Movement Speeds](#movement-speeds)
 * [Ghost Hunting](#ghost-hunting)
 
@@ -28,13 +28,13 @@ Grace Period early.
 ## Player Sanity
 Sanity is a vital mechanic in Phasmophobia. Sanity determines Ghost's chances to hunt.
 Below you will find all of the known information about how sanity is drained.
-#### Drain Per Minute
+### Drain Per Minute
 The information below shows how much is lost per minute when Solo. With a lobby of 2 or more people
 these numbers are doubled.
 - Small Map: 7.2%
 - Medium Map: 4.8%
 - Large Map: 3%
-#### Stopping The Drain
+### Stopping The Drain
 These things have been proven to prevent Sanity depletion.
 - Being Outside the Building
 - Standing within lights range
